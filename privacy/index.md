@@ -5,12 +5,14 @@ title: Brewpilot privacy policy
 
 # Brewpilot Privacy Policy
 
-_Last updated: 2026-10-15. Contact: jonathan@nullmening.org._
+_Last updated: 2026-10-23. Contact: jonathan@nullmening.org._
 
 Brewpilot is an independent app. It is not affiliated with any brewing, hardware or AI company named in it.
 
 ## Data kept on your device
 Recipes, brew logs, inventory, equipment and settings are stored locally on your phone.
+
+If enabled in Android settings, Android may also back up the brew database and selected preferences to your Google account. Device-to-device transfer can include brew photos. These OS-managed copies are controlled through your device backup settings; the developer does not receive them.
 
 ## AI features
 When you use recipe generation, the brew assistant or photo reading, the app sends your request to the
@@ -33,7 +35,7 @@ wake lock (so timers keep running).
 Brewpilot has no ads, analytics or crash-reporting SDKs.
 
 ## Deletion
-Uninstalling the app removes local data. To ask for removal of your anonymous install ID and rate-limit
+Uninstalling the app removes its live local data. Android-managed backups can remain and restore data after reinstall; manage or delete those copies through your device backup controls. To ask for removal of your anonymous install ID and rate-limit
 records, contact the address above.
 
 ## Children
