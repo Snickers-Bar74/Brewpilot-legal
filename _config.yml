@@ -1,5 +1,8 @@
 title: Brewpilot
-description: Public privacy policy for Brewpilot
+description: Privacy, data deletion and support for Brewpilot
 theme: jekyll-theme-minimal
 url: https://snickers-bar74.github.io
 baseurl: /Brewpilot-legal
+exclude:
+  - README.md
+  - LAUNCH-CHECKLIST.md

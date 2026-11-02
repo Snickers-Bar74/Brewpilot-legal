@@ -35,8 +35,7 @@ wake lock (so timers keep running).
 Brewpilot has no ads, analytics or crash-reporting SDKs.
 
 ## Deletion
-Uninstalling the app removes its live local data. Android-managed backups can remain and restore data after reinstall; manage or delete those copies through your device backup controls. To ask for removal of your anonymous install ID and rate-limit
-records, contact the address above.
+Uninstalling the app removes its live local data. Android-managed backups can remain and restore data after reinstall; manage or delete those copies through your device backup controls. More → Legal & licenses → Delete AI online data requests deletion of this install's anonymous AI account and its install rate-limit records. This needs a connection to the deletion service; failure keeps the saved sign-in for retry. It leaves recipes and brew records on this device. Using AI again creates a new anonymous account. Shared network/global abuse-prevention counters and provider/support records are separate. You can also contact the address above about access or deletion; never email session tokens.
 
 ## Children
 Brewpilot is aimed at adults of legal drinking age and is not directed at children.
